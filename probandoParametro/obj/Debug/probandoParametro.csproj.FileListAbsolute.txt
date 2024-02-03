@@ -1,0 +1,10 @@
+D:\PROBANDOVISUAL\probandoParametro\bin\Debug\probandoParametro.exe.config
+D:\PROBANDOVISUAL\probandoParametro\bin\Debug\probandoParametro.exe
+D:\PROBANDOVISUAL\probandoParametro\bin\Debug\probandoParametro.pdb
+D:\PROBANDOVISUAL\probandoParametro\obj\Debug\probandoParametro.csproj.AssemblyReference.cache
+D:\PROBANDOVISUAL\probandoParametro\obj\Debug\probandoParametro.Form1.resources
+D:\PROBANDOVISUAL\probandoParametro\obj\Debug\probandoParametro.Properties.Resources.resources
+D:\PROBANDOVISUAL\probandoParametro\obj\Debug\probandoParametro.csproj.GenerateResource.cache
+D:\PROBANDOVISUAL\probandoParametro\obj\Debug\probandoParametro.csproj.CoreCompileInputs.cache
+D:\PROBANDOVISUAL\probandoParametro\obj\Debug\probandoParametro.exe
+D:\PROBANDOVISUAL\probandoParametro\obj\Debug\probandoParametro.pdb
