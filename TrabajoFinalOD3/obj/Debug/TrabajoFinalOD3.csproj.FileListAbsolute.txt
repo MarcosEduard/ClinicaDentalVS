@@ -1,0 +1,10 @@
+D:\TrabajoFinalOD3\TrabajoFinalOD3\bin\Debug\TrabajoFinalOD3.exe.config
+D:\TrabajoFinalOD3\TrabajoFinalOD3\bin\Debug\TrabajoFinalOD3.exe
+D:\TrabajoFinalOD3\TrabajoFinalOD3\bin\Debug\TrabajoFinalOD3.pdb
+D:\TrabajoFinalOD3\TrabajoFinalOD3\obj\Debug\TrabajoFinalOD3.csproj.AssemblyReference.cache
+D:\TrabajoFinalOD3\TrabajoFinalOD3\obj\Debug\TrabajoFinalOD3.Properties.Resources.resources
+D:\TrabajoFinalOD3\TrabajoFinalOD3\obj\Debug\TrabajoFinalOD3.csproj.GenerateResource.cache
+D:\TrabajoFinalOD3\TrabajoFinalOD3\obj\Debug\TrabajoFinalOD3.csproj.CoreCompileInputs.cache
+D:\TrabajoFinalOD3\TrabajoFinalOD3\obj\Debug\TrabajoFinalOD3.exe
+D:\TrabajoFinalOD3\TrabajoFinalOD3\obj\Debug\TrabajoFinalOD3.pdb
+D:\TrabajoFinalOD3\TrabajoFinalOD3\obj\Debug\TrabajoFinalOD3.FormPrincipal.resources

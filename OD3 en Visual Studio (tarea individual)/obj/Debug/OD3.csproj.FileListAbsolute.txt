@@ -1,0 +1,20 @@
+D:\OD3\OD3\bin\Debug\OD3.exe.config
+D:\OD3\OD3\bin\Debug\OD3.exe
+D:\OD3\OD3\bin\Debug\OD3.pdb
+D:\OD3\OD3\obj\Debug\OD3.csproj.AssemblyReference.cache
+D:\OD3\OD3\obj\Debug\OD3.Form1.resources
+D:\OD3\OD3\obj\Debug\OD3.Properties.Resources.resources
+D:\OD3\OD3\obj\Debug\OD3.csproj.GenerateResource.cache
+D:\OD3\OD3\obj\Debug\OD3.csproj.CoreCompileInputs.cache
+D:\OD3\OD3\obj\Debug\OD3.exe
+D:\OD3\OD3\obj\Debug\OD3.pdb
+D:\OD3\OD3 en Visual Studio\bin\Debug\OD3.exe.config
+D:\OD3\OD3 en Visual Studio\bin\Debug\OD3.exe
+D:\OD3\OD3 en Visual Studio\bin\Debug\OD3.pdb
+D:\OD3\OD3 en Visual Studio\obj\Debug\OD3.csproj.AssemblyReference.cache
+D:\OD3\OD3 en Visual Studio\obj\Debug\OD3.Form1.resources
+D:\OD3\OD3 en Visual Studio\obj\Debug\OD3.Properties.Resources.resources
+D:\OD3\OD3 en Visual Studio\obj\Debug\OD3.csproj.GenerateResource.cache
+D:\OD3\OD3 en Visual Studio\obj\Debug\OD3.csproj.CoreCompileInputs.cache
+D:\OD3\OD3 en Visual Studio\obj\Debug\OD3.exe
+D:\OD3\OD3 en Visual Studio\obj\Debug\OD3.pdb
