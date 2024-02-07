@@ -1,0 +1,10 @@
+D:\PORTALES\bin\Debug\PORTALES.exe.config
+D:\PORTALES\bin\Debug\PORTALES.exe
+D:\PORTALES\bin\Debug\PORTALES.pdb
+D:\PORTALES\obj\Debug\PORTALES.csproj.AssemblyReference.cache
+D:\PORTALES\obj\Debug\PORTALES.Form1.resources
+D:\PORTALES\obj\Debug\PORTALES.Properties.Resources.resources
+D:\PORTALES\obj\Debug\PORTALES.csproj.GenerateResource.cache
+D:\PORTALES\obj\Debug\PORTALES.csproj.CoreCompileInputs.cache
+D:\PORTALES\obj\Debug\PORTALES.exe
+D:\PORTALES\obj\Debug\PORTALES.pdb
